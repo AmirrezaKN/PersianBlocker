@@ -334,3 +334,9 @@ p30download.ir##.text-aga
 ! darkroid.ir:
 ||rozup.ir/view/4190453/pop.js^
 darkroid.ir##.app-dl-modal-papa
+
+! citna.ir:
+www.citna.ir###block-adl
+www.citna.ir###block-adsleft2
+www.citna.ir###block-adbt
+www.citna.ir###block-adsf
