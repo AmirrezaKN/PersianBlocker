@@ -336,4 +336,4 @@ p30download.ir##.text-aga
 darkroid.ir##.app-dl-modal-papa
 
 ! citna.ir:
-www.citna.ir##div[id^="block-ad"]
+citna.ir##div[id^="block-ad"]
