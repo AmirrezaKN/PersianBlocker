@@ -59,7 +59,14 @@
 ||binoads.ir^
 
 ! par30games.net:
+! https://github.com/AdguardTeam/AdguardFilters/issues/83232
+! https://github.com/MasterKia/PersianBlocker/issues/4
+! https://github.com/MasterKia/PersianBlocker/issues/9
+! https://github.com/MasterKia/PersianBlocker/pull/19
+! https://community.brave.com/t/reporting-remaining-ads/508217/4
 ||yektabanner.com^
+par30games.net##.top-large-ads
+par30games.net##.sidebar-box-shop
 
 ! These news websites all have a common advertisment format:
 ! cdn.sharghdaily.com/servev2/, cdn.donya-e-eqtesad.com/servev2/, cdn.fararu.com/servev2/, etc
@@ -213,10 +220,6 @@ aparat.com##.ad-product-thumb
 ! https://github.com/uBlockOrigin/uAssets/issues/14480
 ! https://github.com/MasterKia/PersianBlocker/issues/40
 soft98.ir,~forum.soft98.ir##img[src^="https://img.soft98.ir/"]:upward(1):style(clip-path: circle(0) !important;)
-
-! par30games.net:
-||par30games.net/wp-content/uploads/*.gif^
-par30games.net##.top-large-ads
 
 ! shahrekhabar.com:
 ||static.shahrekhabar.com/banner/*.gif^
