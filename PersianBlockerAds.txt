@@ -371,3 +371,6 @@ web.bale.ai##div[data-testid="dialog-ad"]
 
 ! boursepress.ir:
 boursepress.ir##.sysbanner
+
+! sahand-music.ir:
+sahand-music.ir##div[style="position: fixed;bottom: 20px;right: 0;z-index: 9999;"]
