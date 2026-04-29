@@ -339,6 +339,9 @@ p30download.ir##.text-aga
 ||rozup.ir/view/4190453/pop.js^
 darkroid.ir##.app-dl-modal-papa
 
+! gapgpt.app:
+gapgpt.app##.ad-response-block
+
 ! web.bale.ai:
 web.bale.ai##div[data-testid="dialog-ad"]
 
