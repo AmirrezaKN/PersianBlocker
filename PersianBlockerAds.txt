@@ -339,6 +339,9 @@ p30download.ir##.text-aga
 ||rozup.ir/view/4190453/pop.js^
 darkroid.ir##.app-dl-modal-papa
 
+! citna.ir:
+citna.ir##div[id^="block-ad"]
+
 ! search.bertina.ir:
 search.bertina.ir##[data-ad-id]
 
