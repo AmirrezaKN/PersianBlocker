@@ -100,3 +100,6 @@ aparat.com##+js(set-session-storage-item, videoWatchCount, $remove$)
 
 ! gapgpt.app:
 ||gapgpt.app/api/v1/logs/event^
+
+! web.bale.ai:
+||sentry.bale.sh^
