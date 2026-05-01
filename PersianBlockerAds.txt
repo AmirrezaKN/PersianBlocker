@@ -320,6 +320,8 @@ ganjoor.net##a[href^="https://click.kntr.ir/"]
 ! par30dl.net:
 ||bitpin.ir^$image,from=par30dl.net
 par30dl.net###tabl-bottom-of-header
+par30dl.net##.w-auto.flex.gap-4.items-center.justify-center.mb-4.-mt-2
+par30dl.net##.sticky-bottom-wa
 
 ! shomanews.com:
 ||shomanews.com/uploads/advertisement^
