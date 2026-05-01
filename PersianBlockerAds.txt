@@ -376,6 +376,8 @@ boursepress.ir##.sysbanner
 sahand-music.ir##div[style="position: fixed;bottom: 20px;right: 0;z-index: 9999;"]
 
 ! vgdl.ir:
+vgdl.ir##section.vgdl_new_ads
+
 ! https://github.com/MasterKia/PersianBlocker/issues/298
 vgdl.ir##.vgdl_new_ads
 
