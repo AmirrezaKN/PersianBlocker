@@ -381,3 +381,6 @@ vgdl.ir##.vgdl_new_ads
 
 ! itpnews.com:
 itpnews.com##.e-con-full:has(a[href^="https://itpnews.com/persian/ads/"])
+
+! ecc.news:
+ecc.news##div[class^="bnr"]
